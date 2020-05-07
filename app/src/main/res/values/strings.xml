@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">t8_5</string>
+    <string name="info">Pulloautomaatti 1.1</string>
+    <string name="addMoney">Lisää rahaa</string>
+    <string name="getChange">Rahat ulos</string>
+    <string name="buy">Osta limsa</string>
+    <string name="amount">Säädä liukurilla, paljonko rahaa haluat lisätä koneeseen</string>
+    <string name="amountInfo">Rahaa koneessa: 0.00€</string>
+    <string name="receipt">Tulosta kuitti</string>
+</resources>
